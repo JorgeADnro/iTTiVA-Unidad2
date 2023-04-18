@@ -54,55 +54,52 @@ Requisitos.
 * Tener instalado Visual Studio Code 
 
 <!-- Descripción -->
-#### Descripción.
+## Descripción.
 La gestión de usuario y gestión de privilegios resulta una parte fundamental en un sistema de administrativo para un
 Gimnasio, tomando en cuenta que la principal idea de este es llevar un control absoluto sobre todo lo que lo rodea
 como sus clientes, empleados y los roles con los que cuenta cada uno. Es por ello que en este documento se
 mostraran la descripción de los objetivos, características y funcionalidades de cada uno de ellos.
 
-##Gestion de Usuario
+#### Gestion de Usuario
 Objetivos:
-➢ Administrar lo que puede llevar a cabo cada usuario.
-➢ Controlar la cantidad de usuarios registrados en el sistema.
-➢ Controlar los roles con los que cuentan lo usuarios.
+* Administrar lo que puede llevar a cabo cada usuario.
+* Controlar la cantidad de usuarios registrados en el sistema.
+* Controlar los roles con los que cuentan lo usuarios.
 
 Características:
-➢ Utiliza un sistema de asignación de roles al usuario, el rol trae con los diferentes privilegios
+* Utiliza un sistema de asignación de roles al usuario, el rol trae con los diferentes privilegios
 dependiendo el rol.
-➢ Permite la realización de diferentes actividades dependiendo del rol.
+* Permite la realización de diferentes actividades dependiendo del rol.
 
 Funcionalidades:
-➢ Creación, actualización, eliminación y búsqueda de un determinado usuario.
-➢ Asignación de los diferentes roles.
-➢ Creación de nuevos roles con diferentes privilegios.
+* Creación, actualización, eliminación y búsqueda de un determinado usuario.
+* Asignación de los diferentes roles.
+* Creación de nuevos roles con diferentes privilegios.
 
-##Gestión de Privilegios
+#### Gestión de Privilegios
 Objetivos:
-➢ Controlar con los privilegios con los que puede contar cada usuario dependiendo el rol.
-➢ Definir y gestionar los roles y responsabilidades de cada empleado.
-➢ Asignar permisos y accesos al sistema.
-➢ Controlar y monitorear el acceso a información confidencial del gimnasio.
+* Controlar con los privilegios con los que puede contar cada usuario dependiendo el rol.
+* Definir y gestionar los roles y responsabilidades de cada empleado.
+* Asignar permisos y accesos al sistema.
+* Controlar y monitorear el acceso a información confidencial del gimnasio.
 
 Características:
-➢ Permite la definición de roles y permisos personalizados para cada empleado.
-➢ Permite la asignación de permisos y accesos al sistema.
-➢ Facilita el monitoreo del acceso a información confidencial del gimnasio.
-➢ Garantiza la seguridad de la información mediante la restricción de accesos.
+* Permite la definición de roles y permisos personalizados para cada empleado.
+* Permite la asignación de permisos y accesos al sistema.
+* Facilita el monitoreo del acceso a información confidencial del gimnasio.
+* Garantiza la seguridad de la información mediante la restricción de accesos.
 
 Funcionalidades:
-➢ Definición y gestión de roles y permisos personalizados para cada empleado.
-➢ Asignación de permisos y accesos al sistema.
-➢ Monitoreo del acceso a información confidencial del gimnasio.
-➢ Restricción de accesos a información confidencial para garantizar la seguridad de la información.
+* Definición y gestión de roles y permisos personalizados para cada empleado.
+* Asignación de permisos y accesos al sistema.
+* Monitoreo del acceso a información confidencial del gimnasio.
+* Restricción de accesos a información confidencial para garantizar la seguridad de la información.
 
-#### Casos de Uso
+## Organigrama.
+![image](https://user-images.githubusercontent.com/106614143/232810415-978b05e4-6990-4909-b8ea-27257fb7c7fc.png)
 
-![image](https://user-images.githubusercontent.com/123588637/232643366-795855d4-9359-44bd-aa17-5961fb64125c.png)
-![image](https://user-images.githubusercontent.com/123588637/232643387-e3421ba1-2e74-4c70-9cdb-2f9100c763a8.png)
-![image](https://user-images.githubusercontent.com/123588637/232643422-884202a4-ca0f-4d0c-9006-d74da3506bf6.png)
-![image](https://user-images.githubusercontent.com/123588637/232643460-c6e6da54-cad2-462d-88f3-56ae9ed3920a.png)
-![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
-![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
+## Análisis de la Solución.
+En ésta sección se indicará los artefactos generados en base a la solución.
 
 ## Historias de Usuario
 #### Historia de usuario Gestión de Usuario.
@@ -119,7 +116,43 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
-#### Diagrama de Actividades
+#### Requerimientos.
+
+![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
+
+#### Diseño de la Solución.
+En ésta sección se indicará los artefactos generados en base a la solución.
+
+
+#### Casos de Uso
+
+![image](https://user-images.githubusercontent.com/123588637/232643366-795855d4-9359-44bd-aa17-5961fb64125c.png)
+![image](https://user-images.githubusercontent.com/123588637/232643387-e3421ba1-2e74-4c70-9cdb-2f9100c763a8.png)
+![image](https://user-images.githubusercontent.com/123588637/232643422-884202a4-ca0f-4d0c-9006-d74da3506bf6.png)
+![image](https://user-images.githubusercontent.com/123588637/232643460-c6e6da54-cad2-462d-88f3-56ae9ed3920a.png)
+![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
+![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
+
+
+
+#### Diagrama de actividades
+Administrador root 
+El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
+
+![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
+
+
+
+Usuario visitante
+El usuario visitante busca la página de optimen oficial y da clik sobre ella para entrar, tendrá la opción de navegar sin problemas dentro de la misma y poder abandonar la página.
+
+![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
+
+Creador de contenido
+El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
+
+![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
+
 
 
 
@@ -160,40 +193,9 @@ Nombres de constantes en mayúsculas.
 #### Objetivos.
 El proyecto consiste en el rediseño de la página oficial de la empresa Optimen S.A de C.V. para incluir nuevas funcionalidades que brinden información actualizada sobre la empresa y sus avances en TI. Se busca lograr un sitio web altamente eficiente, con una rápida velocidad de carga para una navegación óptima. El administrador root podrá controlar los permisos de acceso de los usuarios, mientras que los creadores de contenido podrán crear, editar, eliminar y consultar noticias y eventos. Además, las noticias y eventos se mostrarán en la página principal para mantener a los usuarios visitantes informados acerca de las últimas novedades de la empresa.
 
-<!-- Organigrama -->
-#### Organigrama.
-![image](https://user-images.githubusercontent.com/106614143/232810415-978b05e4-6990-4909-b8ea-27257fb7c7fc.png)
 
 <!-- Análisis del proyecto -->
-## Análisis de la Solución.
-En ésta sección se indicará los artefactos generados en base a la solución.
 
-<!-- Requerimientos -->
-#### Requerimientos.
-<!-- Diagrama de actividades -->
-![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
-
-<!-- Diseño del proyecto -->
-#### Diseño de la Solución.
-En ésta sección se indicará los artefactos generados en base a la solución.
-
-## Diagrama de actividades
-Administrador root 
-El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
-
-![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
-
-
-
-Usuario visitante
-El usuario visitante busca la página de optimen oficial y da clik sobre ella para entrar, tendrá la opción de navegar sin problemas dentro de la misma y poder abandonar la página.
-
-![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
-
-Creador de contenido
-El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
-
-![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
