@@ -142,23 +142,27 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 ![image](https://user-images.githubusercontent.com/123588637/232643387-e3421ba1-2e74-4c70-9cdb-2f9100c763a8.png)
 
 ## Diagrama de actividades
-#### Administrador root 
-El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
+#### Administrador: Eliminar empleado
+
+El administrador ingresará a la página, donde posteriormente iniciará sesión, si el sistema verifica que los datos ingresados son correctos, será redirigido a la pantalla principal. Luego podrá seleccionar al empleado que desea eliminar y en seguida, el sistema arrojará un mensaje de confirmación donde el administrador decidirá si en verdad desea eliminarlo o no.
+
+En caso de que el administrador decida que no desea eliminarlo, el sistema redireccionará al apartado de empleados.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
 
+#### Administrador: Editar empleado
 
-Usuario visitante
-El usuario visitante busca la página de optimen oficial y da clik sobre ella para entrar, tendrá la opción de navegar sin problemas dentro de la misma y poder abandonar la página.
+El administrador ingresará a la página, donde posteriormente iniciará sesión, si el sistema verifica que los datos ingresados son correctos, será redirigido a la pantalla principal. Luego podrá seleccionar al empleado que desea modificar y en seguida, el sistema redireccionará a un formulario con los datos originales para que puedan ser modificados, luego, al dar click en aceptar, el sistema arrojará un mensaje de confirmación donde el administrador decidirá si en verdad desea editarlo o no.
+
+En caso de que el administrador decida que no desea modificarlo, el sistema redireccionará al apartado de empleados.
 
 ![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
 
-Creador de contenido
-El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
+#### Administrador: Crear empleado
+
+El administrador ingresará a la página, donde posteriormente iniciará sesión, si el sistema verifica que los datos ingresados son correctos, será redirigido a la pantalla principal. Luego podrá acceder al apartado de añadir empleados; en esta pantalla se mostrará un formulario para que puedan ser añadidos los datos del empleado, si estos datos son correctos, el sistema agregará al empleado a la base de datos, en caso contrario, si los datos son incorrectos se mandará un mensaje de error.
 
 ![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
-
-
 
 
 <!-- Modelo Arquitectura MVC -->
