@@ -231,18 +231,7 @@ Evidencia de Ejecución de Casos de prueba.
 
 
 <!-- Iniciando -->
-## Iniciando
-Iniciando.
-
-<!-- Requisitos -->
-### Requisitos
-Antes de utilizar las nuevas funcionalidades de administración de contenido del sitio web, se deben cumplir los siguientes requisitos previos:
-*	Navegador web
-*	Dispositivo electrónico
-*	Permisos de usuario
-*	Conexión a internet 
-*	Edición de contenido
-
+## Iniciando la aplicación
 
 <!-- Instalación -->
 ### Proceso de instalación
@@ -301,13 +290,8 @@ Antes de utilizar las nuevas funcionalidades de administración de contenido del
 
 Si haz seguido todos los pasos, entonces tendrás el proyecto funcionando correctamente. 
 
-
-
-About-Us
-
-
 ## Participantes
 * [Jorge Luis Ayala Manrique](https://github.com/JorgeADnro)
 * [Omar Ricardo Garay Garcia](https://github.com/Ricardo7173)
 * [Juan Antonio Rincon Torres](https://github.com/jantorres53)
-* [Angel Fernando Sevilla Hernandez]
+* [Angel Fernando Sevilla Hernandez](https://github.com/FerchaSS)
