@@ -124,11 +124,6 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 ![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
 ![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
 ![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
-![image](https://user-images.githubusercontent.com/123588637/232644135-eeaef988-0c8e-4b0c-bf61-aeead52eb4ec.png)
-![image](https://user-images.githubusercontent.com/123588637/232644159-f4d05ce2-cae5-4c21-ade6-08b0b30d4aec.png)
-![image](https://user-images.githubusercontent.com/123588637/232644181-5928b937-5e81-449d-8b27-203a28ca730a.png)
-![image](https://user-images.githubusercontent.com/123588637/232644360-a9cb7d3a-1e27-498c-b160-8b5edbe5dac2.png)
-![image](https://user-images.githubusercontent.com/123588637/232644387-70e1a283-7b0c-47a1-a4aa-3abd8cefe4ea.png)
 
 <!-- Modelo Arquitectura MVC -->
 #### Modelo Arquitectura MVC
