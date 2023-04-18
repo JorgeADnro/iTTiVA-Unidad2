@@ -60,7 +60,7 @@ Gimnasio, tomando en cuenta que la principal idea de este es llevar un control a
 como sus clientes, empleados y los roles con los que cuenta cada uno. Es por ello que en este documento se
 mostraran la descripción de los objetivos, características y funcionalidades de cada uno de ellos.
 
-Gestion de Usuario
+##Gestion de Usuario
 Objetivos:
 ➢ Administrar lo que puede llevar a cabo cada usuario.
 ➢ Controlar la cantidad de usuarios registrados en el sistema.
@@ -76,7 +76,7 @@ Funcionalidades:
 ➢ Asignación de los diferentes roles.
 ➢ Creación de nuevos roles con diferentes privilegios.
 
-Gestión de Privilegios
+##Gestión de Privilegios
 Objetivos:
 ➢ Controlar con los privilegios con los que puede contar cada usuario dependiendo el rol.
 ➢ Definir y gestionar los roles y responsabilidades de cada empleado.
@@ -95,7 +95,8 @@ Funcionalidades:
 ➢ Monitoreo del acceso a información confidencial del gimnasio.
 ➢ Restricción de accesos a información confidencial para garantizar la seguridad de la información.
 
-Casos de Uso
+###Casos de Uso
+
 ![image](https://user-images.githubusercontent.com/123588637/232643366-795855d4-9359-44bd-aa17-5961fb64125c.png)
 ![image](https://user-images.githubusercontent.com/123588637/232643387-e3421ba1-2e74-4c70-9cdb-2f9100c763a8.png)
 ![image](https://user-images.githubusercontent.com/123588637/232643422-884202a4-ca0f-4d0c-9006-d74da3506bf6.png)
@@ -103,22 +104,23 @@ Casos de Uso
 ![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
 ![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
 
-Historias de Usuario
-Historia de usuario Gestión de Usuario.
+###Historias de Usuario
+##Historia de usuario Gestión de Usuario.
 El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
 en donde tendrá tres opciones: agregar usuario, actualizar usuario y eliminar usuario, estas opciones permiten que el
 administrador asigne, actualice y elimine los usuarios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643589-6f34b8c1-a5cb-4f3a-919d-84f42073308f.png)
 
-Historia de usuario Gestión de Privilegios.
+##Historia de usuario Gestión de Privilegios.
 El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
 en donde tendrá las opciones de asignarle un rol a determinado empleado o usuario permiten que el administrador
 asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
-Diagrama de Actividades
+###Diagrama de Actividades
+
 ![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
 ![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
 ![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
