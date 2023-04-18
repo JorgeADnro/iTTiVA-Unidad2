@@ -95,7 +95,7 @@ Funcionalidades:
 ➢ Monitoreo del acceso a información confidencial del gimnasio.
 ➢ Restricción de accesos a información confidencial para garantizar la seguridad de la información.
 
-###Casos de Uso
+#### Casos de Uso
 
 ![image](https://user-images.githubusercontent.com/123588637/232643366-795855d4-9359-44bd-aa17-5961fb64125c.png)
 ![image](https://user-images.githubusercontent.com/123588637/232643387-e3421ba1-2e74-4c70-9cdb-2f9100c763a8.png)
@@ -104,7 +104,7 @@ Funcionalidades:
 ![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
 ![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
 
-###Historias de Usuario
+#### Historias de Usuario
 ##Historia de usuario Gestión de Usuario.
 El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
 en donde tendrá tres opciones: agregar usuario, actualizar usuario y eliminar usuario, estas opciones permiten que el
@@ -119,7 +119,7 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
-###Diagrama de Actividades
+#### Diagrama de Actividades
 
 ![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
 ![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
@@ -131,14 +131,14 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 ![image](https://user-images.githubusercontent.com/123588637/232644387-70e1a283-7b0c-47a1-a4aa-3abd8cefe4ea.png)
 
 <!-- Modelo Arquitectura MVC -->
-## Modelo Arquitectura MVC
+#### Modelo Arquitectura MVC
 
 •	El usuario realiza una solicitud a nuestro sitio web. Generalmente estará desencadenada por acceder a una página de nuestro sitio. Esa solicitud le llega al controlador. 
 •	El controlador comunica tanto con modelos como con vistas. A los modelos les solicita datos o les manda realizar actualizaciones de los datos. A las vistas les solicita la salida correspondiente, una vez se hayan realizado las operaciones pertinentes según la lógica del negocio. 
 •	Para producir la salida, en ocasiones las vistas pueden solicitar más información a los modelos. En ocasiones, el controlador será el responsable de solicitar todos los datos a los modelos y de enviarlos a las vistas, haciendo de puente entre unos y otros. Sería corriente tanto una cosa como la otra, todo depende de nuestra implementación; por eso esa flecha la hemos coloreado de otro color. 
 •	Las vistas envían al usuario la salida. Aunque en ocasiones esa salida puede ir de vuelta al controlador y sería éste el que hace el envío al cliente. 
 
-Modelo MVC 
+## Modelo MVC 
 ![image](https://user-images.githubusercontent.com/123511310/232640011-b8ccfdbc-7136-493b-993b-1e9a8c478c2a.png)
 
 <!-- Modelo Arquitectura MVC -->
