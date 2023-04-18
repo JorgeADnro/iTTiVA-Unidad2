@@ -55,9 +55,79 @@ Requisitos.
 
 <!-- Descripción -->
 #### Descripción.
-Principalmente el objetivo es el rediseño de la apariencia y la estructura de la página de oficial de Optimen S.A de C.V, con la intención de agregar nuevas características, novedosas y funcionales para el funcionamiento y la interacción del usuario. Se busca añadir la disponibilidad de dos idiomas; inglés y español y asi mismo añadir la funcionalidad de “inicio de sesión”, en donde el objetivo será crear vista especial para usuarios que actualizan el contenido como noticias o eventos. De igual manera una vista de “administrador root”(usuario raíz) el cual podrá otorgar los diferentes permisos a los usuarios registrados como creadores de contenido, así también podrá administrar estos usuarios.
-* Financieros : $9000
-* Tiempos: 3 meses y 21 días (25 de Enero - 14 de Abril)
+La gestión de usuario y gestión de privilegios resulta una parte fundamental en un sistema de administrativo para un
+Gimnasio, tomando en cuenta que la principal idea de este es llevar un control absoluto sobre todo lo que lo rodea
+como sus clientes, empleados y los roles con los que cuenta cada uno. Es por ello que en este documento se
+mostraran la descripción de los objetivos, características y funcionalidades de cada uno de ellos.
+
+Gestion de Usuario
+Objetivos:
+➢ Administrar lo que puede llevar a cabo cada usuario.
+➢ Controlar la cantidad de usuarios registrados en el sistema.
+➢ Controlar los roles con los que cuentan lo usuarios.
+
+Características:
+➢ Utiliza un sistema de asignación de roles al usuario, el rol trae con los diferentes privilegios
+dependiendo el rol.
+➢ Permite la realización de diferentes actividades dependiendo del rol.
+
+Funcionalidades:
+➢ Creación, actualización, eliminación y búsqueda de un determinado usuario.
+➢ Asignación de los diferentes roles.
+➢ Creación de nuevos roles con diferentes privilegios.
+
+Gestión de Privilegios
+Objetivos:
+➢ Controlar con los privilegios con los que puede contar cada usuario dependiendo el rol.
+➢ Definir y gestionar los roles y responsabilidades de cada empleado.
+➢ Asignar permisos y accesos al sistema.
+➢ Controlar y monitorear el acceso a información confidencial del gimnasio.
+
+Características:
+➢ Permite la definición de roles y permisos personalizados para cada empleado.
+➢ Permite la asignación de permisos y accesos al sistema.
+➢ Facilita el monitoreo del acceso a información confidencial del gimnasio.
+➢ Garantiza la seguridad de la información mediante la restricción de accesos.
+
+Funcionalidades:
+➢ Definición y gestión de roles y permisos personalizados para cada empleado.
+➢ Asignación de permisos y accesos al sistema.
+➢ Monitoreo del acceso a información confidencial del gimnasio.
+➢ Restricción de accesos a información confidencial para garantizar la seguridad de la información.
+
+Casos de Uso
+![image](https://user-images.githubusercontent.com/123588637/232643366-795855d4-9359-44bd-aa17-5961fb64125c.png)
+![image](https://user-images.githubusercontent.com/123588637/232643387-e3421ba1-2e74-4c70-9cdb-2f9100c763a8.png)
+![image](https://user-images.githubusercontent.com/123588637/232643422-884202a4-ca0f-4d0c-9006-d74da3506bf6.png)
+![image](https://user-images.githubusercontent.com/123588637/232643460-c6e6da54-cad2-462d-88f3-56ae9ed3920a.png)
+![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
+![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
+
+Historias de Usuario
+Historia de usuario Gestión de Usuario.
+El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
+en donde tendrá tres opciones: agregar usuario, actualizar usuario y eliminar usuario, estas opciones permiten que el
+administrador asigne, actualice y elimine los usuarios del gimnasio.
+
+![image](https://user-images.githubusercontent.com/123588637/232643589-6f34b8c1-a5cb-4f3a-919d-84f42073308f.png)
+
+Historia de usuario Gestión de Privilegios.
+El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
+en donde tendrá las opciones de asignarle un rol a determinado empleado o usuario permiten que el administrador
+asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
+
+![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
+
+Diagrama de Actividades
+![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
+![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
+![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
+![image](https://user-images.githubusercontent.com/123588637/232644135-eeaef988-0c8e-4b0c-bf61-aeead52eb4ec.png)
+![image](https://user-images.githubusercontent.com/123588637/232644159-f4d05ce2-cae5-4c21-ade6-08b0b30d4aec.png)
+![image](https://user-images.githubusercontent.com/123588637/232644181-5928b937-5e81-449d-8b27-203a28ca730a.png)
+![image](https://user-images.githubusercontent.com/123588637/232644360-a9cb7d3a-1e27-498c-b160-8b5edbe5dac2.png)
+![image](https://user-images.githubusercontent.com/123588637/232644387-70e1a283-7b0c-47a1-a4aa-3abd8cefe4ea.png)
+
 
 
 <!-- Objetivos -->
