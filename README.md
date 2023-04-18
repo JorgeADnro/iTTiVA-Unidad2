@@ -116,9 +116,13 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
-#### Requerimientos.
+## Plan de iteraciones.
 
 ![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
+
+#### Requisitos por spring
+
+![image](https://user-images.githubusercontent.com/106614143/232849496-e3494f68-a046-42fd-921b-f20c5fc9f39d.png)
 
 #### Diseño de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
@@ -203,8 +207,23 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
-#### Casos de prueba.
-Indicar los casos de prueba
+### Casos de prueba.
+
+#### Iniciar sesión exitosamente
+![image](https://user-images.githubusercontent.com/106614143/232850317-ead110c8-1efa-4e28-98e1-b31cca2c2bac.png)
+
+#### Iniciar sesión erroneamente
+
+![image](https://user-images.githubusercontent.com/106614143/232852130-bffe914b-6e2e-4078-9a89-b1fd1ab17926.png)
+
+
+#### Añadir empleado
+
+![image](https://user-images.githubusercontent.com/106614143/232852358-36c0f853-df37-483f-a70a-f41fc894e407.png)
+
+#### Cerrar sesión
+
+![image](https://user-images.githubusercontent.com/106614143/232853157-b986e350-9752-4186-9ee5-c78812715576.png)
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
