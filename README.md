@@ -104,15 +104,15 @@ Funcionalidades:
 ![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
 ![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
 
-#### Historias de Usuario
-##Historia de usuario Gestión de Usuario.
+## Historias de Usuario
+#### Historia de usuario Gestión de Usuario.
 El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
 en donde tendrá tres opciones: agregar usuario, actualizar usuario y eliminar usuario, estas opciones permiten que el
 administrador asigne, actualice y elimine los usuarios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643589-6f34b8c1-a5cb-4f3a-919d-84f42073308f.png)
 
-## Historia de usuario Gestión de Privilegios.
+#### Historia de usuario Gestión de Privilegios.
 El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
 en donde tendrá las opciones de asignarle un rol a determinado empleado o usuario permiten que el administrador
 asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
@@ -121,9 +121,7 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 #### Diagrama de Actividades
 
-![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
-![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
-![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
+
 
 <!-- Modelo Arquitectura MVC -->
 ## Modelo Arquitectura MVC
@@ -176,24 +174,26 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 ![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
 
 <!-- Diseño del proyecto -->
-## Diseño de la Solución.
+#### Diseño de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
 
-#### Diagrama de actividades
+## Diagrama de actividades
 Administrador root 
 El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
 
-![image]()
+![image](https://user-images.githubusercontent.com/123588637/232643724-29d8fa10-e6bc-4fbe-aad5-e56c82253c9f.png)
+
+
 
 Usuario visitante
 El usuario visitante busca la página de optimen oficial y da clik sobre ella para entrar, tendrá la opción de navegar sin problemas dentro de la misma y poder abandonar la página.
 
-![image]()
+![image](https://user-images.githubusercontent.com/123588637/232644002-8d9ab609-d1ef-459a-9d16-aec70635aee6.png)
 
 Creador de contenido
 El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
 
-![image]()
+![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
