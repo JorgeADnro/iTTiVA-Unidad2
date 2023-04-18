@@ -331,70 +331,10 @@ Antes de utilizar las nuevas funcionalidades de administración de contenido del
 
 Si haz seguido todos los pasos, entonces tendrás el proyecto funcionando correctamente. 
 
-## Guias
-#### Inicio de sesión
-Esta pantalla es para los usuarios (administrador root y creadores de contenido), para poder acceder deberá introducir el usuario y contraseña con los que accede.
-Siempre y cuando tengan el back encendido podrán ingresar a la url: http://localhost:4000/admin/login y podrán iniciar sesión para hacer sus actividades correspondientes de acuerdo con los permisos brindados por el administrador root a cada uno de los usuarios.
-![image](https://user-images.githubusercontent.com/114689978/231235061-40a38979-fac6-43b7-8583-069c89d9c9bd.png)
 
-#### Crear evento y/o noticia
-Para agregar un nuevo evento o noticia, haga clic en el botón "Create new" en la página de administración de contenido. Se abrirá un formulario en el que podrá ingresar el Id, evento(nombre), ubicación, descripción, la fecha,  hora, la imagen, etc. del evento o noticia. Una vez que haya ingresado toda la información, haga clic en el botón "Save" para agregar el nuevo evento o noticia.
-![image](https://user-images.githubusercontent.com/114689978/231235143-dbe4f76e-5b8c-4cfb-90a2-ca090b53e7e3.png)
-
-#### Actualizar evento y/o noticia
-Para actualizar un evento o noticia existente, seleccione el evento o noticia en la lista de eventos o noticias. Se abrirá un formulario de edición en el que podrá modificar el título, la descripción, la fecha y la imagen del evento o noticia. Una vez que haya realizado los cambios, haga clic en "Save" para actualizar el evento o noticia.
-![image](https://user-images.githubusercontent.com/114689978/231235232-030de5b7-d7cd-4ee3-b3c1-8244196cec86.png)
-
-#### Eliminar evento y/o noticia
-Para eliminar un evento o noticia existente, seleccione el evento o noticia en la lista de eventos o noticias en la página de administración de contenido y haga clic en el botón "DELETE". Se le pedirá que confirme la eliminación antes de continuar.
-![image](https://user-images.githubusercontent.com/114689978/231235317-8fc9722c-6be4-4f2c-875a-cb00be92ebbe.png)
-
-#### Listar evento y/o noticia
-Para listar los eventos o noticias existentes, simplemente navegue a la página principal del sitio web. Allí encontrará una sección de eventos y noticias que muestra los eventos y noticias. 
-![image](https://user-images.githubusercontent.com/114689978/231235402-97ecd661-f5f8-4bd4-850a-cadd5f5ce419.png)
-
-#### Administrador – Root
-El usuario Root puede visualizar las noticias, eventos y crear usuarios nuevos.
-![image]()
-
-![image]()
-
-![image]()
-
-#### Usuario
-El usuario visitante podrá observar las siguientes pantallas al acceder a la página, de las cuales la primera será la pantalla de home también podrá ver la barra de navegación que le permitirá del desplazamiento entre una pantalla y otra.4
-#### Home
-En la vista home se presentan todos los eventos generados, el usuario puede poner el cursor sobre el evento y se le despliega la imagen sobre el evento.
-![image]()
-
-![image]()
 
 About-Us
-![image]()
 
-Customers
-![image]()
-
-News
-En esta parte de la página el usuario podrá visualizar las noticias publicadas y así pueda informarse un poco más sobre las actividades que realiza la empresa. 
-
-![image]()
-
-Contact-Us
-El usuario podrá contactarse con la empresa cuando entre a el apartado de contactos y se aparezca el formulario que tendrá que llenar para que se le dé más información sobre el tema que este solicitando y poder darle seguimiento a su solicitud.
-
-![image]()
-
-Cambio de idioma
-El usuario podrá visualizar un botón flotante que le permitirá hacer el cambio de idioma.
-
-![image]()
-
-Opciones para personas con discapacidad
-
-En esta opción se podrán hacer los cambios de acuerdo con las necesidades del usuario, en la podrá cambiar el contraste, resaltar los enlaces, hacer más grande el texto, agregar espacio entre el texto, entre otro, estos son solo algunos de los cambios que se pueden hacer. 
-
-![image]()
 
 ## Participantes
 * [Jorge Luis Ayala Manrique](https://github.com/JorgeADnro)
