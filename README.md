@@ -52,6 +52,7 @@ Requisitos.
 * Tener instalado Angular
 * Tener instalado Node JS
 * Tener instalado Visual Studio Code 
+* Tener instalado Spring boot suite 4
 
 <!-- Descripción -->
 ## Descripción.
@@ -240,6 +241,34 @@ Evidencia de Ejecución de Casos de prueba.
 <!-- Instalación -->
 ### Proceso de instalación
 
+## Instalación de Spring tool suit 4
+
+1. Ingresaremos al link: https://spring.io/tools, e iremos a la sección "Spring Tools 4 for Eclipse", dando clic en el botón de descarga para Windows(en este caso).
+
+![image](https://user-images.githubusercontent.com/106614143/232860987-d35f0c2e-b4c6-4001-a57f-d265b7aa9c3c.png)
+
+2. Seleccionaremos la ruta de descarga y esperaremos a que esta concluya.
+
+3. Una vez descargado el archivo daremos clic derecho sobre él y daremos clic en "extraer en spring-tool-suite-4-4.18.0.RELEASE-e4.27.0-win32.win32.x86_64.self-extracting\"
+
+4. Nos dejará una carpeta que abriremos.
+
+![image](https://user-images.githubusercontent.com/106614143/232861497-57909d55-f11f-4e8c-877c-88369ce87a46.png)
+
+5. Daremos clic derecho en contents y luego en extraer en "contents\", esto nos dejará una carpeta que abriremos.
+
+![image](https://user-images.githubusercontent.com/106614143/232861802-719588f3-435b-41f5-8997-31024bc9b2ae.png)
+
+6. Entraremos en la carpeta sts-4.18.0.RELEASE
+
+![image](https://user-images.githubusercontent.com/106614143/232861917-63b3efe0-9c1d-4e03-8ab1-add6d73131aa.png)
+
+7. Ejecutaremos el SpringToolStuite4 de tipo Aplicación.
+
+![image](https://user-images.githubusercontent.com/106614143/232862030-c31d139b-7a2d-420b-9f16-2c72383eac0c.png)
+
+Y ya tendríamos el SpringToolSuite4 funcionando.
+
 ## Clonar el proyecto
 
 1.	Para clonar el proyecto crearemos una carpeta y en esta abriremos una terminal del sistema en la que escribiremos el comando “git clone https://github.com/jantorres53/Ittiva.git” y esperaremos a que termine de descargarse el proyecto.
@@ -270,8 +299,7 @@ Evidencia de Ejecución de Casos de prueba.
 ![image](https://user-images.githubusercontent.com/106614143/232641931-ddec9f20-3795-405d-a96b-3b52001109f8.png)
 ![image](https://user-images.githubusercontent.com/106614143/232641944-38c45ed5-1351-4bed-b58d-75455ccc40ea.png)
 
-
-6.	Luego utilizaremos una herramienta llamada “Spring tool suite 4” para abrir el archivo dando clic en File, luego en Open Project from File System.
+6.	Luego utilizaremos la herramienta “Spring tool suite 4” para abrir el archivo dando clic en File, luego en Open Project from File System.
 
 ![image](https://user-images.githubusercontent.com/106614143/232641967-b4be68a2-e3f5-4ddf-9028-91cbfc92a445.png)
 
