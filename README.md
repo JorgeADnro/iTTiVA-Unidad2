@@ -229,11 +229,6 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 ![image](https://user-images.githubusercontent.com/106614143/232855302-dfa574fd-d42c-4e09-999f-379568d72239.png)
 
-<!-- Ejecución Casos de prueba -->
-#### Ejecución.
-Evidencia de Ejecución de Casos de prueba.
-
-
 <!-- Iniciando -->
 ## Iniciando la aplicación
 
