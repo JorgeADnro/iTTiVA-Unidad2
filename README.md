@@ -169,70 +169,18 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 #### Organigrama.
 ![image](https://user-images.githubusercontent.com/106614143/232810415-978b05e4-6990-4909-b8ea-27257fb7c7fc.png)
 
-
-<!-- Diagrama Gantt -->
-#### Diagrama Gantt.
-![image]()
-
-
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 #### Requerimientos.
-![image]()
-
 <!-- Diagrama de actividades -->
 ![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
-
-
-<!-- Diagrama de Casos de Uso -->
-#### Diagrama Casos de Uso.
-Creador de contenido
-![image]()
-
-Usuario visitante
-![image]()
-
-Administrador
-
-![image]()
-
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
-
-<!-- Modelo Relacional -->
-#### Modelo Relacional.
-Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
-Colección eventos      
-![image]()
-
-Colección noticias     
-![image]()
-
-Colección de usuarios     
-![image]()
-
-
-<!-- Diagrama de Clases -->
-#### Diagrama de Clases.
-Evento 
-
-![image]()
-
-Noticias 
-
-![image]()
-
-
-<!-- Diagrama de Componentes -->
-#### Diagrama de Componentes
-Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
-
-![image]()
 
 #### Diagrama de actividades
 Administrador root 
