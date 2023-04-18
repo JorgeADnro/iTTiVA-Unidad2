@@ -112,7 +112,7 @@ administrador asigne, actualice y elimine los usuarios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643589-6f34b8c1-a5cb-4f3a-919d-84f42073308f.png)
 
-##Historia de usuario Gestión de Privilegios.
+## Historia de usuario Gestión de Privilegios.
 El usuario administrador ingresara al sistema a través de su usuario y contraseña ingresando al módulo de Usuarios
 en donde tendrá las opciones de asignarle un rol a determinado empleado o usuario permiten que el administrador
 asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
@@ -126,14 +126,14 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 ![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
 
 <!-- Modelo Arquitectura MVC -->
-#### Modelo Arquitectura MVC
+## Modelo Arquitectura MVC
 
 •	El usuario realiza una solicitud a nuestro sitio web. Generalmente estará desencadenada por acceder a una página de nuestro sitio. Esa solicitud le llega al controlador. 
 •	El controlador comunica tanto con modelos como con vistas. A los modelos les solicita datos o les manda realizar actualizaciones de los datos. A las vistas les solicita la salida correspondiente, una vez se hayan realizado las operaciones pertinentes según la lógica del negocio. 
 •	Para producir la salida, en ocasiones las vistas pueden solicitar más información a los modelos. En ocasiones, el controlador será el responsable de solicitar todos los datos a los modelos y de enviarlos a las vistas, haciendo de puente entre unos y otros. Sería corriente tanto una cosa como la otra, todo depende de nuestra implementación; por eso esa flecha la hemos coloreado de otro color. 
 •	Las vistas envían al usuario la salida. Aunque en ocasiones esa salida puede ir de vuelta al controlador y sería éste el que hace el envío al cliente. 
 
-## Modelo MVC 
+#### Modelo MVC 
 ![image](https://user-images.githubusercontent.com/123511310/232640011-b8ccfdbc-7136-493b-993b-1e9a8c478c2a.png)
 
 <!-- Modelo Arquitectura MVC -->
