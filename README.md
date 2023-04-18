@@ -8,35 +8,44 @@
       <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
       <ul>
         <li><a href="#descripción">Descripción</a></li>
-        <li><a href="#objetivos">Objetivos</a></li>
         <li><a href="#organigrama">Organigrama</a></li>
-        <li><a href="#diagrama-gantt">Diagrama Gantt</a></li>
       </ul>
     </li>
     <li>
       <a href="#análisis-de-la-solución">Análisis de la Solución</a>
       <ul>
-        <li><a href="#requerimientos">Requerimientos</a></li>
+        <li><a href="#historias-de-usuario">Requerimientos</a></li>
         <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
+        <li><a href="#plan-de-iteraciones">Plan de itraciones</a></li>
       </ul>
     </li>
     <li>
       <a href="#diseño-de-la-solución">Diseño de la Solución</a>
       <ul>
-        <li><a href="#modelo-relacional">Modelo Relacional</a></li>
-        <li><a href="#diagrama-de-clases">Diagrama de Clases</a></li>
+        <li><a href="#casos-de-uso">Casos de uso</a></li>
+        <li><a href="#diagrama-de-casos-de-uso">Diagrama de casos de uso</a></li>
         <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
         <li><a href="#diagrama-de-actividadess">Diagrama de Actividades</a></li>
+        <li><a href="#modelo-arquitectura-mvc">Modelo Arquitectura MVC</a></li>
+        <li><a href="#modelo-de-bases-de-datos">Modelo de bases de datos</a></li>
+        <li><a href="#estandar-de-programación-camel-case">Estándar de programación Camel Case</a></li>
       </ul>
     </li>          
     <li>
       <a href="#pruebas">Pruebas</a>
       <ul>
         <li><a href="#casos-de-prueba">Casos de prueba</a></li>
-        <li><a href="#ejecución">Ejecución</a></li>
       </ul>
-    </li>       
-    <li><a href="#guias">Guias</a></li>
+    </li>
+    <li>
+      <a href="#proceso-de-instalación">Proceso de instalación</a>
+      <ul>
+        <li><a href="#instalación-de-spring-tool-suit-4">Instalación de Spring tool suit 4</a></li>
+        <li><a href="#clonar-el-proyecto">Clonar el proyecto</a></li>
+        <li><a href="#proceso-de-instalación-para-el-front-end">Proceso de instalación para el Front-end</a></li>
+        <li><a href="#proceso-de-instalación-para-el-back-end">Proceso de instalación para el Back-end</a></li>
+      </ul>
+    </li> 
     <li><a href="#participantes">Participantes</a></li>
   </ol>
 </details>
@@ -117,7 +126,7 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
-## Plan de iteraciones.
+## Plan de iteraciones
 
 ![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
 
@@ -125,7 +134,7 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/106614143/232849496-e3494f68-a046-42fd-921b-f20c5fc9f39d.png)
 
-#### Diseño de la Solución.
+#### Diseño de la Solución
 En ésta sección se indicará los artefactos generados en base a la solución.
 
 
@@ -177,19 +186,19 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 ![image](https://user-images.githubusercontent.com/123511310/232640011-b8ccfdbc-7136-493b-993b-1e9a8c478c2a.png)
 
 <!-- Modelo Arquitectura MVC -->
-## Modelo de base de datos.
+## Modelo de base de datos
 
 ![image](https://user-images.githubusercontent.com/123511310/232651757-ede51409-1d00-491c-a7a2-d0f514e10c69.png)
 
-## Estándar de base de datos.
+## Estándar de base de datos
 
-Nombre de la colección en singular.
-Nombre de los campos de cada colección sin incluir mayúsculas.
-Nombre de la colección iniciando con mayúscula.
-Se incluyen términos en ingles adecuados a la base de datos usada.
-Si se incluye un dato tipo cadena, se usan comillas.
+* Nombre de la colección en singular.
+* Nombre de los campos de cada colección sin incluir mayúsculas.
+* Nombre de la colección iniciando con mayúscula.
+* Se incluyen términos en ingles adecuados a la base de datos usada.
+* Si se incluye un dato tipo cadena, se usan comillas.
 
-## Estándar de programación Camel Case.
+## Estándar de programación Camel Case
 
 Cuando un nombre del campo de la colección está constituido por dos palabras, se combinan estas palabras sin usar ningún carácter especial.
 Comentarios incluidos al inicio con su nombre de clase respectivamente por cada uno.
@@ -199,7 +208,7 @@ Nombres de constantes en mayúsculas.
 
 
 <!-- Objetivos -->
-#### Objetivos.
+#### Objetivos
 El proyecto consiste en el rediseño de la página oficial de la empresa Optimen S.A de C.V. para incluir nuevas funcionalidades que brinden información actualizada sobre la empresa y sus avances en TI. Se busca lograr un sitio web altamente eficiente, con una rápida velocidad de carga para una navegación óptima. El administrador root podrá controlar los permisos de acceso de los usuarios, mientras que los creadores de contenido podrán crear, editar, eliminar y consultar noticias y eventos. Además, las noticias y eventos se mostrarán en la página principal para mantener a los usuarios visitantes informados acerca de las últimas novedades de la empresa.
 
 
@@ -207,11 +216,11 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 
 
 <!-- Pruebas proyecto -->
-## Pruebas.
+## Pruebas
 En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Casos de prueba -->
-### Casos de prueba.
+### Casos de prueba
 
 #### Iniciar sesión exitosamente
 ![image](https://user-images.githubusercontent.com/106614143/232855113-c7a29cf9-9b28-4fe6-917d-7e2f99a8cb69.png)
@@ -229,11 +238,8 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 
 ![image](https://user-images.githubusercontent.com/106614143/232855302-dfa574fd-d42c-4e09-999f-379568d72239.png)
 
-<!-- Iniciando -->
-## Iniciando la aplicación
-
 <!-- Instalación -->
-### Proceso de instalación
+# Proceso de instalación
 
 ## Instalación de Spring tool suit 4
 
