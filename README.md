@@ -210,20 +210,20 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 ### Casos de prueba.
 
 #### Iniciar sesión exitosamente
-![image](https://user-images.githubusercontent.com/106614143/232850317-ead110c8-1efa-4e28-98e1-b31cca2c2bac.png)
+![image](https://user-images.githubusercontent.com/106614143/232855113-c7a29cf9-9b28-4fe6-917d-7e2f99a8cb69.png)
 
 #### Iniciar sesión erroneamente
 
-![image](https://user-images.githubusercontent.com/106614143/232852130-bffe914b-6e2e-4078-9a89-b1fd1ab17926.png)
+![image](https://user-images.githubusercontent.com/106614143/232855178-342d1085-3305-44ab-9290-9113d428ac7f.png)
 
 
 #### Añadir empleado
 
-![image](https://user-images.githubusercontent.com/106614143/232852358-36c0f853-df37-483f-a70a-f41fc894e407.png)
+![image](https://user-images.githubusercontent.com/106614143/232855243-0b7ca1cd-8863-4084-9cd7-78b08507016e.png)
 
 #### Cerrar sesión
 
-![image](https://user-images.githubusercontent.com/106614143/232853157-b986e350-9752-4186-9ee5-c78812715576.png)
+![image](https://user-images.githubusercontent.com/106614143/232855302-dfa574fd-d42c-4e09-999f-379568d72239.png)
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
