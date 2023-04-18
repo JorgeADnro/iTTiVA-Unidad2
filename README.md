@@ -167,7 +167,7 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 
 <!-- Organigrama -->
 #### Organigrama.
-![image]()
+![image](https://user-images.githubusercontent.com/106614143/232810415-978b05e4-6990-4909-b8ea-27257fb7c7fc.png)
 
 
 <!-- Diagrama Gantt -->
@@ -182,6 +182,9 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 <!-- Requerimientos -->
 #### Requerimientos.
 ![image]()
+
+<!-- Diagrama de actividades -->
+![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
 
 
 <!-- Diagrama de Casos de Uso -->
