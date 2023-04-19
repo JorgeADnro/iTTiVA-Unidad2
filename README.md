@@ -77,14 +77,15 @@ Este sistema de gestión de usuarios y privilegios nos permite mantener el siste
 La implementación de nuestro modulo tomo dos meses y medio en completarse, esto incluye el diseño de la arquitectura de seguridad del sistema, la creación de componentes de interfaz de usuario, la implementación de servicios para la gestión de permisos y la integración con el backend del sistema.
 
 Objetivos Generales:
-•	Mejorar la eficiencia: Un software de gestión de gimnasios puede ayudar a automatizar los procesos de administración y gestión de los clientes, lo que puede mejorar la eficiencia del gimnasio en general. Por ejemplo, se pueden automatizar tareas como el seguimiento de los pagos de los clientes, la gestión de las membresías, el seguimiento de la asistencia y el acceso a las instalaciones.
+* Mejorar la eficiencia: Un software de gestión de gimnasios puede ayudar a automatizar los procesos de administración y gestión de los clientes, lo que puede mejorar la eficiencia del gimnasio en general. Por ejemplo, se pueden automatizar tareas como el seguimiento de los pagos de los clientes, la gestión de las membresías, el seguimiento de la asistencia y el acceso a las instalaciones.
 
-•	Aumentar la satisfacción del cliente: Puede mejorar la experiencia del cliente al proporcionar acceso a información en línea y permitir la gestión en línea de su membresía. Los clientes pueden realizar reservas, cancelaciones, verificar su asistencia y ver sus progresos en línea.
-•	Optimizar la gestión de la información: El software de gestión de gimnasios puede ayudar a organizar y administrar toda la información importante del gimnasio, como los datos de los clientes, los registros de asistencia y los horarios de las clases. Esto puede ser muy útil para tomar decisiones informadas y mejorar el funcionamiento del gimnasio.
+* Aumentar la satisfacción del cliente: Puede mejorar la experiencia del cliente al proporcionar acceso a información en línea y permitir la gestión en línea de su membresía. Los clientes pueden realizar reservas, cancelaciones, verificar su asistencia y ver sus progresos en línea.
 
-•	Aumentar la seguridad: La gestión de usuarios y privilegios puede mejorar la seguridad del gimnasio al garantizar que solo las personas autorizadas tengan acceso a las instalaciones y los datos confidenciales. Además, la gestión de usuarios y privilegios puede ayudar a evitar el uso indebido o el abuso de los recursos del gimnasio.
+* Optimizar la gestión de la información: El software de gestión de gimnasios puede ayudar a organizar y administrar toda la información importante del gimnasio, como los datos de los clientes, los registros de asistencia y los horarios de las clases. Esto puede ser muy útil para tomar decisiones informadas y mejorar el funcionamiento del gimnasio.
 
-•	Facilitar la toma de decisiones: El software de gestión de gimnasios puede proporcionar datos y análisis importantes que pueden ser utilizados para tomar decisiones informadas y mejorar la eficiencia del gimnasio. Por ejemplo, se puede obtener información sobre las horas pico y las horas bajas, la cantidad de clientes en promedio por día y el rendimiento financiero del gimnasio.
+* Aumentar la seguridad: La gestión de usuarios y privilegios puede mejorar la seguridad del gimnasio al garantizar que solo las personas autorizadas tengan acceso a las instalaciones y los datos confidenciales. Además, la gestión de usuarios y privilegios puede ayudar a evitar el uso indebido o el abuso de los recursos del gimnasio.
+
+*	Facilitar la toma de decisiones: El software de gestión de gimnasios puede proporcionar datos y análisis importantes que pueden ser utilizados para tomar decisiones informadas y mejorar la eficiencia del gimnasio. Por ejemplo, se puede obtener información sobre las horas pico y las horas bajas, la cantidad de clientes en promedio por día y el rendimiento financiero del gimnasio.
 
 
 
