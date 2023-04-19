@@ -152,7 +152,7 @@ El usuario administrador ingresara al sistema a través de su usuario y contrase
 en donde tendrá las opciones de asignarle un rol a determinado empleado o usuario permiten que el administrador
 asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
-#### Diagrama de clases
+
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
 ## Plan de iteraciones
