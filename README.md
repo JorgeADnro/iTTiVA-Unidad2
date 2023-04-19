@@ -166,14 +166,6 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 #### Diseño de la Solución
 En ésta sección se indicará los artefactos generados en base a la solución.
 
-#### Casos de Uso
-
-
-![image](https://user-images.githubusercontent.com/123588637/232643422-884202a4-ca0f-4d0c-9006-d74da3506bf6.png)
-![image](https://user-images.githubusercontent.com/123588637/232643460-c6e6da54-cad2-462d-88f3-56ae9ed3920a.png)
-![image](https://user-images.githubusercontent.com/123588637/232643486-806862c0-8985-4f84-aea1-ae44906cab29.png)
-![image](https://user-images.githubusercontent.com/123588637/232643515-b0234f0c-41da-4cb7-ab19-ffda99548342.png)
-
 #### Diagrama de casos de uso
 
 ![image](https://user-images.githubusercontent.com/123588637/233182972-7e4c021c-ba5f-4ddc-9b84-58970f931079.png)
