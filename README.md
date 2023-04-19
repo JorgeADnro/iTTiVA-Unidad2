@@ -176,7 +176,8 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 #### Diagrama de casos de uso
 
-![image](https://user-images.githubusercontent.com/123588637/232643366-795855d4-9359-44bd-aa17-5961fb64125c.png)
+![image](https://user-images.githubusercontent.com/123588637/233182972-7e4c021c-ba5f-4ddc-9b84-58970f931079.png)
+
 
 ## Diagrama de actividades
 #### Administrador: Eliminar empleado
