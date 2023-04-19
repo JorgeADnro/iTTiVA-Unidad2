@@ -211,7 +211,7 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 •	Las vistas envían al usuario la salida. Aunque en ocasiones esa salida puede ir de vuelta al controlador y sería éste el que hace el envío al cliente. 
 
 #### Diagrama de Componentes.
-![ComponentDiagram](https://user-images.githubusercontent.com/123511310/232948821-5ee1b5a5-4a36-4169-8e97-65c11ad0591b.png)
+![image](https://user-images.githubusercontent.com/123511310/232948963-1e0f7a9e-9362-4b79-886b-92e487cea31d.png)
 
 
 #### Modelo MVC 
