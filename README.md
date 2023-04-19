@@ -188,7 +188,7 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 <!-- Modelo Arquitectura MVC -->
 ## Modelo de base de datos
 
-![image](https://user-images.githubusercontent.com/123511310/232651757-ede51409-1d00-491c-a7a2-d0f514e10c69.png)
+![image](https://user-images.githubusercontent.com/106614143/232936632-cf256566-578f-40b1-a96f-7079a1fc70ce.png)
 
 ## Estándar de base de datos
 
