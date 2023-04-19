@@ -188,7 +188,18 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 <!-- Modelo Arquitectura MVC -->
 ## Modelo de base de datos
 
-![image](https://user-images.githubusercontent.com/106614143/232936632-cf256566-578f-40b1-a96f-7079a1fc70ce.png)
+![image](https://user-images.githubusercontent.com/106614143/232937304-d4b68b57-e51e-4b5d-a1c8-e4dd89d8b754.png)
+
+Tipos de datos:
+* id: Number
+* username: String
+* photo: String
+* age: Number
+* turn: String
+* email: String
+* phone: String
+* password: String
+* role: Array
 
 ## Estándar de base de datos
 
