@@ -27,7 +27,7 @@
         <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
         <li><a href="#diagrama-de-actividadess">Diagrama de Actividades</a></li>
         <li><a href="#modelo-arquitectura-mvc">Modelo Arquitectura MVC</a></li>
-        <li><a href="#modelo-de-bases-de-datos">Modelo de bases de datos</a></li>
+        <li><a href="#modelo-BD">Modelo BD</a></li>
         <li><a href="#estandar-de-programación-camel-case">Estándar de programación Camel Case</a></li>
       </ul>
     </li>          
@@ -44,6 +44,12 @@
         <li><a href="#clonar-el-proyecto">Clonar el proyecto</a></li>
         <li><a href="#proceso-de-instalación-para-el-front-end">Proceso de instalación para el Front-end</a></li>
         <li><a href="#proceso-de-instalación-para-el-back-end">Proceso de instalación para el Back-end</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#guía">Guía</a>
+      <ul>
+        <li><a href="#manual-de-usuario">Manual de usuario</a></li>
       </ul>
     </li> 
     <li><a href="#participantes">Participantes</a></li>
@@ -186,7 +192,7 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 ![image](https://user-images.githubusercontent.com/123511310/232640011-b8ccfdbc-7136-493b-993b-1e9a8c478c2a.png)
 
 <!-- Modelo Arquitectura MVC -->
-## Modelo de base de datos
+## Modelo BD
 
 ![image](https://user-images.githubusercontent.com/106614143/232937304-d4b68b57-e51e-4b5d-a1c8-e4dd89d8b754.png)
 
@@ -287,6 +293,8 @@ Y ya tendríamos el SpringToolSuite4 funcionando.
 ![image](https://user-images.githubusercontent.com/106614143/232639865-51aca498-762c-4548-97e4-6c82ed8582aa.png)
 ![image](https://user-images.githubusercontent.com/106614143/232639932-d4d31d2f-2d1b-4355-8f34-ff50453096a2.png)
 
+# Guía
+
 ## Proceso de instalación para el Front-end
 
 2.	Abriremos la carpeta que nos descargó el paso anterior y abriremos una terminal nueva, después escribiremos el comando “npm i” para que descargue todas las dependencias utilizadas y esperaremos a que termine el proceso.
@@ -331,7 +339,42 @@ Y ya tendríamos el SpringToolSuite4 funcionando.
 ![image](https://user-images.githubusercontent.com/106614143/232642122-08a1241c-f2e9-48ed-a4a6-1514b45e911c.png)
 
 
-Si haz seguido todos los pasos, entonces tendrás el proyecto funcionando correctamente. 
+Si haz seguido todos los pasos, entonces tendrás el proyecto funcionando correctamente.
+
+## Manual de usuario
+
+1. Un administrador y un recepcionista pueden iniciar sesión en el sistema.
+
+![image](https://user-images.githubusercontent.com/106614143/232942065-dad81b6f-9b9d-4fb4-9c21-78235cd02fa6.png)
+![image](https://user-images.githubusercontent.com/106614143/232942090-77074bcf-fdb0-4550-a6fe-4098270ca612.png)
+
+2. Un administrador puede registrar nuevos empleados (Se creó al recepcionista llamado Pedro).
+
+![image](https://user-images.githubusercontent.com/106614143/232942155-fa78884f-a075-4c48-9e7e-0ba0f9e49f4f.png)
+
+3. Un recepcionista *NO* puede registrar nuevos empleados (Se inició sesión como Pedro).
+
+![image](https://user-images.githubusercontent.com/106614143/232942306-2438d37a-b157-48fe-8468-374861558dcf.png)
+
+4. El administrador, un recepcionista y un usuario pueden ver los detalles de un cliente.
+
+![image](https://user-images.githubusercontent.com/106614143/232942393-32970422-4e58-4edf-9ff9-72bb6506a782.png)
+
+5. El administrador y un recepcionista pueden crear un cliente.
+
+![image](https://user-images.githubusercontent.com/106614143/232942475-dad3b2c5-ec1b-4aac-b043-3eec452a0d8b.png)
+![image](https://user-images.githubusercontent.com/106614143/232942513-c3ae8088-b5da-47a3-a4ed-9887bc1a1abb.png)
+
+6. El administrador y un recepcionista pueden actualizar los datos de un cliente (Se dió clic en el botón Editar de la lista de clientes).
+
+![image](https://user-images.githubusercontent.com/106614143/232942594-ad6d96a4-ee2a-40d9-aef1-a43f000fe48e.png)
+![image](https://user-images.githubusercontent.com/106614143/232942653-872cdc6f-f960-4b39-a7e5-57681cebb482.png)
+
+7. El administrador y un recepcionista pueden eliminar un cliente (Se dió clic en el botón Eliminar de la lista de clientes).
+
+![image](https://user-images.githubusercontent.com/106614143/232942719-1e631eac-cf80-419b-945e-094236f56612.png)
+![image](https://user-images.githubusercontent.com/106614143/232942760-00a417fd-7319-4301-8107-79c16dd1c876.png)
+
 
 ## Participantes
 * [Jorge Luis Ayala Manrique](https://github.com/JorgeADnro)
