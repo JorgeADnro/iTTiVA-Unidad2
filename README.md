@@ -210,14 +210,13 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 •	Para producir la salida, en ocasiones las vistas pueden solicitar más información a los modelos. En ocasiones, el controlador será el responsable de solicitar todos los datos a los modelos y de enviarlos a las vistas, haciendo de puente entre unos y otros. Sería corriente tanto una cosa como la otra, todo depende de nuestra implementación; por eso esa flecha la hemos coloreado de otro color. 
 •	Las vistas envían al usuario la salida. Aunque en ocasiones esa salida puede ir de vuelta al controlador y sería éste el que hace el envío al cliente. 
 
-#### Diagrama de Componentes.
-![image](https://user-images.githubusercontent.com/123511310/232948963-1e0f7a9e-9362-4b79-886b-92e487cea31d.png)
-
-
 #### Modelo MVC 
 ![image](https://user-images.githubusercontent.com/123511310/232640011-b8ccfdbc-7136-493b-993b-1e9a8c478c2a.png)
 
-<!-- Modelo Arquitectura MVC -->
+#### Diagrama de Componentes.
+![image](https://user-images.githubusercontent.com/123511310/232948963-1e0f7a9e-9362-4b79-886b-92e487cea31d.png)
+
+<!-- Modelo BD -->
 ## Modelo BD
 
 ![image](https://user-images.githubusercontent.com/106614143/232937304-d4b68b57-e51e-4b5d-a1c8-e4dd89d8b754.png)
