@@ -71,16 +71,27 @@ Requisitos.
 
 <!-- Descripción -->
 ## Descripción.
-La gestión de usuario y gestión de privilegios resulta una parte fundamental en un sistema de administrativo para un
-Gimnasio, tomando en cuenta que la principal idea de este es llevar un control absoluto sobre todo lo que lo rodea
-como sus clientes, empleados y los roles con los que cuenta cada uno. Es por ello que en este documento se
-mostraran la descripción de los objetivos, características y funcionalidades de cada uno de ellos.
+La gestión de usuario y gestión de privilegios resulta una parte fundamental para garantizar la seguridad y la eficiencia de nuestro sistema. Su función principal se centra en el proceso de inicio de sesión, el cual está diseñado para mostrar vistas específicas a cada usuario dependiendo de sus permisos. De esta manera, se puede controlar de manera efectiva el acceso y las acciones que pueden realizar los usuarios en nuestro sistema.
+La idea principal detrás de este proceso de inicio de sesión es garantizar que cada usuario tenga acceso solo a la información y herramientas que le corresponden según su rol en el sistema. Por ejemplo, si un usuario tiene el rol de administrador, se le mostrarán vistas adicionales que le permitirán realizar tareas de administración, mientras que un usuario con un rol limitado solo tendrá acceso a las vistas y herramientas necesarias para su trabajo diario.
+Este sistema de gestión de usuarios y privilegios nos permite mantener el sistema organizado y estructurado de manera eficiente, al mismo tiempo que asegura la integridad de los datos y la privacidad de los usuarios. Además, ayuda a prevenir errores y malas prácticas, ya que los usuarios no podrán realizar acciones que no les corresponden según su rol determinado. En resumen, esta función es esencial para garantizar la seguridad y el éxito de nuestro sistema.
+La implementación de nuestro modulo tomo dos meses y medio en completarse, esto incluye el diseño de la arquitectura de seguridad del sistema, la creación de componentes de interfaz de usuario, la implementación de servicios para la gestión de permisos y la integración con el backend del sistema.
+
+Objetivos Generales:
+•	Mejorar la eficiencia: Un software de gestión de gimnasios puede ayudar a automatizar los procesos de administración y gestión de los clientes, lo que puede mejorar la eficiencia del gimnasio en general. Por ejemplo, se pueden automatizar tareas como el seguimiento de los pagos de los clientes, la gestión de las membresías, el seguimiento de la asistencia y el acceso a las instalaciones.
+•	Aumentar la satisfacción del cliente: Puede mejorar la experiencia del cliente al proporcionar acceso a información en línea y permitir la gestión en línea de su membresía. Los clientes pueden realizar reservas, cancelaciones, verificar su asistencia y ver sus progresos en línea.
+•	Optimizar la gestión de la información: El software de gestión de gimnasios puede ayudar a organizar y administrar toda la información importante del gimnasio, como los datos de los clientes, los registros de asistencia y los horarios de las clases. Esto puede ser muy útil para tomar decisiones informadas y mejorar el funcionamiento del gimnasio.
+•	Aumentar la seguridad: La gestión de usuarios y privilegios puede mejorar la seguridad del gimnasio al garantizar que solo las personas autorizadas tengan acceso a las instalaciones y los datos confidenciales. Además, la gestión de usuarios y privilegios puede ayudar a evitar el uso indebido o el abuso de los recursos del gimnasio.
+•	Facilitar la toma de decisiones: El software de gestión de gimnasios puede proporcionar datos y análisis importantes que pueden ser utilizados para tomar decisiones informadas y mejorar la eficiencia del gimnasio. Por ejemplo, se puede obtener información sobre las horas pico y las horas bajas, la cantidad de clientes en promedio por día y el rendimiento financiero del gimnasio.
+
 
 #### Gestion de Usuario
 Objetivos:
-* Administrar lo que puede llevar a cabo cada usuario.
-* Controlar la cantidad de usuarios registrados en el sistema.
-* Controlar los roles con los que cuentan lo usuarios.
+•	Control de acceso: Garantizar que solo las personas autorizadas tengan acceso a las instalaciones y a la información confidencial del gimnasio. Para ello, se pueden establecer diferentes niveles de acceso y permisos para los usuarios, según sus roles y responsabilidades.
+•	Gestión de membresías: Ayudar a gestionar las membresías de los clientes, lo que incluye el seguimiento de pagos, la renovación de membresías, el registro de nuevos clientes y la actualización de la información personal de los clientes.
+•	Gestión de reservas: Permitir a los clientes realizar reservas en línea, lo que puede mejorar la experiencia del cliente y optimizar la utilización de las instalaciones del gimnasio.
+•	Seguimiento de asistencia: Permitir llevar un registro de la asistencia de los clientes, lo que puede ser utilizado para el seguimiento del progreso de los clientes y para la planificación de las actividades del gimnasio.
+•	Comunicación con los clientes: Permitir la comunicación personalizada con los clientes, lo que puede mejorar la relación entre el gimnasio y sus clientes y aumentar la satisfacción del cliente. Por ejemplo, se pueden enviar recordatorios de pagos, notificaciones sobre horarios de clases y promociones especiales a través del software de gestión de usuarios.
+
 
 Características:
 * Utiliza un sistema de asignación de roles al usuario, el rol trae con los diferentes privilegios
@@ -94,10 +105,11 @@ Funcionalidades:
 
 #### Gestión de Privilegios
 Objetivos:
-* Controlar con los privilegios con los que puede contar cada usuario dependiendo el rol.
-* Definir y gestionar los roles y responsabilidades de cada empleado.
-* Asignar permisos y accesos al sistema.
-* Controlar y monitorear el acceso a información confidencial del gimnasio.
+•	Control de acceso: Garantizar que solo los usuarios autorizados tengan acceso a los recursos del sistema y a la información confidencial. 
+•	Seguridad del sistema: Proteger el sistema de posibles amenazas, como virus o intentos de acceso no autorizado. Al restringir el acceso solo a usuarios autorizados, se puede reducir el riesgo de exposición de información confidencial y mejorar la seguridad del sistema en general.
+•	Cumplimiento normativo: Ayudar a garantizar que se cumplan los requisitos legales y normativos en materia de privacidad y seguridad de la información. Por ejemplo, algunos reglamentos pueden requerir que se mantengan registros detallados de quién ha accedido a la información confidencial y cuándo.
+•	Mejora de la eficiencia: La gestión de privilegios del usuario puede ayudar a mejorar la eficiencia del sistema al permitir que cada usuario tenga acceso solo a los recursos y la información necesarios para realizar su trabajo. Esto puede reducir el riesgo de errores y mal uso de los recursos del sistema, y mejorar la productividad de los usuarios.
+•	Auditoría y seguimiento: La gestión de privilegios del usuario puede permitir llevar un registro detallado de quién ha accedido a qué información y cuándo, lo que puede ser útil para fines de auditoría y seguimiento. Esto puede ayudar a identificar posibles problemas de seguridad o abuso de los recursos del sistema y tomar medidas preventivas adecuadas.
 
 Características:
 * Permite la definición de roles y permisos personalizados para cada empleado.
