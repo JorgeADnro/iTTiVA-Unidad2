@@ -152,6 +152,7 @@ El usuario administrador ingresara al sistema a través de su usuario y contrase
 en donde tendrá las opciones de asignarle un rol a determinado empleado o usuario permiten que el administrador
 asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
+#### Diagrama de clases
 ![image](https://user-images.githubusercontent.com/123588637/232643662-1f8e82a9-01b6-44ab-819b-08bef73cd8b7.png)
 
 ## Plan de iteraciones
@@ -165,6 +166,8 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 #### Diseño de la Solución
 En ésta sección se indicará los artefactos generados en base a la solución.
 
+
+![Imagen de WhatsApp 2023-04-18 a las 20 47 27](https://user-images.githubusercontent.com/123511310/232954024-1caba595-52ba-4610-8507-999684c96c9e.jpg)
 
 #### Casos de Uso
 
@@ -205,13 +208,15 @@ El administrador ingresará a la página, donde posteriormente iniciará sesión
 <!-- Modelo Arquitectura MVC -->
 ## Modelo Arquitectura MVC
 
-•	El usuario realiza una solicitud a nuestro sitio web. Generalmente estará desencadenada por acceder a una página de nuestro sitio. Esa solicitud le llega al controlador. 
-•	El controlador comunica tanto con modelos como con vistas. A los modelos les solicita datos o les manda realizar actualizaciones de los datos. A las vistas les solicita la salida correspondiente, una vez se hayan realizado las operaciones pertinentes según la lógica del negocio. 
-•	Para producir la salida, en ocasiones las vistas pueden solicitar más información a los modelos. En ocasiones, el controlador será el responsable de solicitar todos los datos a los modelos y de enviarlos a las vistas, haciendo de puente entre unos y otros. Sería corriente tanto una cosa como la otra, todo depende de nuestra implementación; por eso esa flecha la hemos coloreado de otro color. 
-•	Las vistas envían al usuario la salida. Aunque en ocasiones esa salida puede ir de vuelta al controlador y sería éste el que hace el envío al cliente. 
+1. El usuario envía una petición al Controlador via una url.
+2. El Controlador solita al modelo los datos.
+3. El modelo devuelve los datos.
+4. El controlador selecciona una vista.
+5. Se devuelve la vista seleccionada al controlador
+6. El controlador devuelve una vista (Sistema gymnasio) que carga los datos del modelo seleccionado.
 
 #### Modelo MVC 
-![image](https://user-images.githubusercontent.com/123511310/232640011-b8ccfdbc-7136-493b-993b-1e9a8c478c2a.png)
+![ModeloMVC](https://user-images.githubusercontent.com/123511310/232953820-4601b0bf-566a-43fe-a960-4ed003550e7a.png)
 
 #### Diagrama de Componentes.
 ![image](https://user-images.githubusercontent.com/123511310/232948963-1e0f7a9e-9362-4b79-886b-92e487cea31d.png)
