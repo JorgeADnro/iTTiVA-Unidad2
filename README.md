@@ -166,9 +166,6 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 #### Diseño de la Solución
 En ésta sección se indicará los artefactos generados en base a la solución.
 
-
-![Imagen de WhatsApp 2023-04-18 a las 20 47 27](https://user-images.githubusercontent.com/123511310/232954024-1caba595-52ba-4610-8507-999684c96c9e.jpg)
-
 #### Casos de Uso
 
 
@@ -203,6 +200,9 @@ En caso de que el administrador decida que no desea modificarlo, el sistema redi
 El administrador ingresará a la página, donde posteriormente iniciará sesión, si el sistema verifica que los datos ingresados son correctos, será redirigido a la pantalla principal. Luego podrá acceder al apartado de añadir empleados; en esta pantalla se mostrará un formulario para que puedan ser añadidos los datos del empleado, si estos datos son correctos, el sistema agregará al empleado a la base de datos, en caso contrario, si los datos son incorrectos se mandará un mensaje de error.
 
 ![image](https://user-images.githubusercontent.com/123588637/232644059-8c8482fb-17d8-4375-b3b0-955637433a5f.png)
+
+## Diagrama de clases
+![Imagen de WhatsApp 2023-04-18 a las 20 47 27](https://user-images.githubusercontent.com/123511310/232954024-1caba595-52ba-4610-8507-999684c96c9e.jpg)
 
 
 <!-- Modelo Arquitectura MVC -->
