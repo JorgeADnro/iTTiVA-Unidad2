@@ -57,9 +57,9 @@ Nombre del proyecto
 
 Requisitos.
 * Internet 
-* Equipo de computo 
-* Tener instalado Angular
-* Tener instalado Node JS
+* Equipo de cómputo
+* Tener instalado Angular v14.2.5
+* Tener instalado Node JS v16.14.2
 * Tener instalado Visual Studio Code 
 * Tener instalado Spring boot suite 4
 
@@ -130,7 +130,7 @@ asigne, actualice y elimine los roles por lo tanto los privilegios del gimnasio.
 
 ![image](https://user-images.githubusercontent.com/106614143/232811275-03c7dcb2-70fa-4953-b74a-b87b22ea77e6.png)
 
-#### Requisitos por spring
+#### Requisitos por sprint
 
 ![image](https://user-images.githubusercontent.com/106614143/232849496-e3494f68-a046-42fd-921b-f20c5fc9f39d.png)
 
