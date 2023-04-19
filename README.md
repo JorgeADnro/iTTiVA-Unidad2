@@ -91,15 +91,15 @@ Objetivos Generales:
 
 #### Gestion de Usuario
 Objetivos:
-•	Control de acceso: Garantizar que solo las personas autorizadas tengan acceso a las instalaciones y a la información confidencial del gimnasio. Para ello, se pueden establecer diferentes niveles de acceso y permisos para los usuarios, según sus roles y responsabilidades.
+* Control de acceso: Garantizar que solo las personas autorizadas tengan acceso a las instalaciones y a la información confidencial del gimnasio. Para ello, se pueden establecer diferentes niveles de acceso y permisos para los usuarios, según sus roles y responsabilidades.
 
-•	Gestión de membresías: Ayudar a gestionar las membresías de los clientes, lo que incluye el seguimiento de pagos, la renovación de membresías, el registro de nuevos clientes y la actualización de la información personal de los clientes.
+*	Gestión de membresías: Ayudar a gestionar las membresías de los clientes, lo que incluye el seguimiento de pagos, la renovación de membresías, el registro de nuevos clientes y la actualización de la información personal de los clientes.
 
-•	Gestión de reservas: Permitir a los clientes realizar reservas en línea, lo que puede mejorar la experiencia del cliente y optimizar la utilización de las instalaciones del gimnasio.
+*	Gestión de reservas: Permitir a los clientes realizar reservas en línea, lo que puede mejorar la experiencia del cliente y optimizar la utilización de las instalaciones del gimnasio.
 
-•	Seguimiento de asistencia: Permitir llevar un registro de la asistencia de los clientes, lo que puede ser utilizado para el seguimiento del progreso de los clientes y para la planificación de las actividades del gimnasio.
+*	Seguimiento de asistencia: Permitir llevar un registro de la asistencia de los clientes, lo que puede ser utilizado para el seguimiento del progreso de los clientes y para la planificación de las actividades del gimnasio.
 
-•	Comunicación con los clientes: Permitir la comunicación personalizada con los clientes, lo que puede mejorar la relación entre el gimnasio y sus clientes y aumentar la satisfacción del cliente. Por ejemplo, se pueden enviar recordatorios de pagos, notificaciones sobre horarios de clases y promociones especiales a través del software de gestión de usuarios.
+*	Comunicación con los clientes: Permitir la comunicación personalizada con los clientes, lo que puede mejorar la relación entre el gimnasio y sus clientes y aumentar la satisfacción del cliente. Por ejemplo, se pueden enviar recordatorios de pagos, notificaciones sobre horarios de clases y promociones especiales a través del software de gestión de usuarios.
 
 
 
