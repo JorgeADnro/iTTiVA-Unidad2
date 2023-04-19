@@ -78,19 +78,28 @@ La implementación de nuestro modulo tomo dos meses y medio en completarse, esto
 
 Objetivos Generales:
 •	Mejorar la eficiencia: Un software de gestión de gimnasios puede ayudar a automatizar los procesos de administración y gestión de los clientes, lo que puede mejorar la eficiencia del gimnasio en general. Por ejemplo, se pueden automatizar tareas como el seguimiento de los pagos de los clientes, la gestión de las membresías, el seguimiento de la asistencia y el acceso a las instalaciones.
+
 •	Aumentar la satisfacción del cliente: Puede mejorar la experiencia del cliente al proporcionar acceso a información en línea y permitir la gestión en línea de su membresía. Los clientes pueden realizar reservas, cancelaciones, verificar su asistencia y ver sus progresos en línea.
 •	Optimizar la gestión de la información: El software de gestión de gimnasios puede ayudar a organizar y administrar toda la información importante del gimnasio, como los datos de los clientes, los registros de asistencia y los horarios de las clases. Esto puede ser muy útil para tomar decisiones informadas y mejorar el funcionamiento del gimnasio.
+
 •	Aumentar la seguridad: La gestión de usuarios y privilegios puede mejorar la seguridad del gimnasio al garantizar que solo las personas autorizadas tengan acceso a las instalaciones y los datos confidenciales. Además, la gestión de usuarios y privilegios puede ayudar a evitar el uso indebido o el abuso de los recursos del gimnasio.
+
 •	Facilitar la toma de decisiones: El software de gestión de gimnasios puede proporcionar datos y análisis importantes que pueden ser utilizados para tomar decisiones informadas y mejorar la eficiencia del gimnasio. Por ejemplo, se puede obtener información sobre las horas pico y las horas bajas, la cantidad de clientes en promedio por día y el rendimiento financiero del gimnasio.
+
 
 
 #### Gestion de Usuario
 Objetivos:
 •	Control de acceso: Garantizar que solo las personas autorizadas tengan acceso a las instalaciones y a la información confidencial del gimnasio. Para ello, se pueden establecer diferentes niveles de acceso y permisos para los usuarios, según sus roles y responsabilidades.
+
 •	Gestión de membresías: Ayudar a gestionar las membresías de los clientes, lo que incluye el seguimiento de pagos, la renovación de membresías, el registro de nuevos clientes y la actualización de la información personal de los clientes.
+
 •	Gestión de reservas: Permitir a los clientes realizar reservas en línea, lo que puede mejorar la experiencia del cliente y optimizar la utilización de las instalaciones del gimnasio.
+
 •	Seguimiento de asistencia: Permitir llevar un registro de la asistencia de los clientes, lo que puede ser utilizado para el seguimiento del progreso de los clientes y para la planificación de las actividades del gimnasio.
+
 •	Comunicación con los clientes: Permitir la comunicación personalizada con los clientes, lo que puede mejorar la relación entre el gimnasio y sus clientes y aumentar la satisfacción del cliente. Por ejemplo, se pueden enviar recordatorios de pagos, notificaciones sobre horarios de clases y promociones especiales a través del software de gestión de usuarios.
+
 
 
 Características:
